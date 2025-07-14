@@ -97,65 +97,6 @@
       "filterable": 1
     },
     {
-      "key": "*探探",
-      "name": "*探探",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
-    },
-    {
-      "key": "*探探资源",
-      "name": "*探探资源",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "91md.me",
-      "name": "成人19",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "💞99资源💞",
-      "name": "💞99资源💞",
-      "type": 1,
-      "api": "http://99zy.pw/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*老鸭资源",
-      "name": "*老鸭资源",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*咪咪",
-      "name": "*咪咪",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "cr32",
-      "name": "*咪咪资源站",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/zp/vod/xml",
-      "playUrl": "https://jx.kujiexi.net/m3u8.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "KpgxdyE",
       "name": "黄AV资源(已修复)",
       "type": 0,
@@ -163,14 +104,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "*KK写真资源",
-      "name": "*KK写真资源",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
     }
   ],
   "parses": [
